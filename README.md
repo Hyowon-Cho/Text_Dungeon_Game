@@ -12,10 +12,6 @@ If the input is invalid (not one of these commands,) the game will let the user 
 
 The goal of the game is to collect the prize guarded by the boss monster.
 
----
-
-Details
-
 Behavior
   The game has three floors. Each floor is made up of five rooms, arranged in a line from left to right. A room can contain: a sword, a monster, magic stones, up-stairs, down-stairs or nothing.
   
