@@ -1,8 +1,8 @@
 ## < Welcome To The Dungeon >
 
-<img src="https://miro.medium.com/max/1500/1*phyURx2pCUQs7PpsJ4WKFw.jpeg" width="700" height="370">
+<img src="https://cdnb.artstation.com/p/assets/images/images/007/682/359/medium/simon-loche-six-guns-ca-pond-dungeon-corridor-02.jpg?1507819514" width="700" height="370">
 
-# __Greeting!__
+# __Greeting! New Challenger!__
 
 * This game takes place in a three story dungeon. The user has to traverse the levels in search of the prize. 
 
