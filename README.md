@@ -1,8 +1,6 @@
-# Dungeon_Game
+# Welcome To The Dungeon
 
 <img src="https://miro.medium.com/max/1500/1*phyURx2pCUQs7PpsJ4WKFw.jpeg" width="700" height="370">
-
-Welcome to another world!
 
 This game takes place in a three story dungeon. The user has to traverse the levels in search of the prize. 
 
