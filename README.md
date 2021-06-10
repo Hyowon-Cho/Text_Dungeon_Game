@@ -4,18 +4,15 @@
 
 # __Greeting!__
 
-This game takes place in a three story dungeon. The user has to traverse the levels in search of the prize. 
+* This game takes place in a three story dungeon. The user has to traverse the levels in search of the prize. 
 
-Along the way they collect items and fight monsters. 
+* Along the way they collect items and fight monsters. 
 
-On each move the user has seven possible commands: left, right, up, down, grab, fight, help. 
+* On each move the user has seven possible commands: left, right, up, down, grab, fight, help. If the input is invalid (not one of these commands,) the game will let the user know. Otherwise, the game will execute the user's command. 
 
-If the input is invalid (not one of these commands,) the game will let the user know. Otherwise, the game will execute the user's command. 
+* The goal of the game is to collect the prize guarded by the boss monster.
 
-The goal of the game is to collect the prize guarded by the boss monster.
-
-Behavior
-  The game has three floors. Each floor is made up of five rooms, arranged in a line from left to right. A room can contain: a sword, a monster, magic stones, up-stairs, down-stairs or nothing.
+* Behavior : The game has three floors. Each floor is made up of five rooms, arranged in a line from left to right. A room can contain: a sword, a monster, magic stones, up-stairs, down-stairs or nothing.
   
 At the start of the game, the user is placed in one of the rooms.
 
