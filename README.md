@@ -1,6 +1,6 @@
 ## < Welcome To The Dungeon >
 
-<img src="https://i.pinimg.com/originals/55/06/68/550668db9887ee1897a2655370e17962.jpg" width="1400" height="700">
+<img src="https://i.pinimg.com/originals/55/06/68/550668db9887ee1897a2655370e17962.jpg" width="1400" height="600">
 
 # __Greeting! New Challenger!__
 
