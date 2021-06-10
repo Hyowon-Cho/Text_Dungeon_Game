@@ -1,8 +1,8 @@
-### Welcome To The Dungeon
+## Welcome To The Dungeon
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/016/738/419/large/do-raga-2017-fd05.jpg?1553270312" width="1520" height="750">
 
-# __Greeting! New Challenger!__
+# __We are the hunter. Be my prey?__
 
 * This game takes place in a three story dungeon. The user has to traverse the levels in search of the prize. 
 
