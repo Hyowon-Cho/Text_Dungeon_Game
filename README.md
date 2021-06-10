@@ -1,6 +1,6 @@
 # Text_Dungeon_Game
 
-####Welcome to Text Dungeon.
+#### Welcome to Text Dungeon.
 
 This game takes place in a three story dungeon. The user has to traverse the levels in search of the prize. 
 
