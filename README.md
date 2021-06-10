@@ -1,6 +1,6 @@
 ## < Welcome To The Dungeon >
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/016/738/419/large/do-raga-2017-fd05.jpg?1553270312" width="1920" height="1050">
+<img src="https://cdnb.artstation.com/p/assets/images/images/016/738/419/large/do-raga-2017-fd05.jpg?1553270312" width="1920" height="750">
 
 # __Greeting! New Challenger!__
 
