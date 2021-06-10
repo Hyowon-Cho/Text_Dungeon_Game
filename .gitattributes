@@ -1,5 +1,0 @@
-$ touch .gitattributes
-
-*.py linguist-detectable=true
-*.cpp linguist-detectable=false
-*.java linguist-detectable=false
