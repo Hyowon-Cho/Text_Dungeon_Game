@@ -1,6 +1,6 @@
 ## < Welcome To The Dungeon >
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/007/682/359/medium/simon-loche-six-guns-ca-pond-dungeon-corridor-02.jpg?1507819514" width="700" height="370">
+<img src="https://i.pinimg.com/originals/55/06/68/550668db9887ee1897a2655370e17962.jpg" width="1400" height="700">
 
 # __Greeting! New Challenger!__
 
