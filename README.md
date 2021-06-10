@@ -4,6 +4,8 @@
 
 # __We are the hunter. Be my prey?__
 
+<hr>
+
 * This game takes place in a three story dungeon. The user has to traverse the levels in search of the prize. 
 
 * Along the way they collect items and fight monsters. 
